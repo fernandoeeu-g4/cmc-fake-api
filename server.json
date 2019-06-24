@@ -1,0 +1,21 @@
+{
+    "unidade": [],
+    "status_evento": {},
+    "municipio": [
+        {
+            "id": 0,
+            "descricao": "Belém"
+        },
+        {
+            "id": 1,
+            "descricao": "Santarém"
+        },
+        {
+            "id": 2,
+            "descricao": "Marabá"
+        }
+    ],
+    "bairro": {},
+    "setor_bairro": {},
+    "setor": {}
+}
