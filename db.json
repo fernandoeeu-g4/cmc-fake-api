@@ -1,5 +1,18 @@
 {
-    "unidade": [],
+    "unidade": [
+        {
+            "id": 0,
+            "descricao": "São Brás"
+        },
+        {
+            "id": 1,
+            "descricao": "Nazaré"
+        },
+        {
+            "id": 2,
+            "descricao": "Batista Campos"
+        }
+    ],
     "municipio": [
         {
             "id": 0,
@@ -14,7 +27,28 @@
             "descricao": "Marabá"
         }
     ],
-    "bairro": {},
+    "bairro": [
+        {
+            "id": 0,
+            "municipio": 0,
+            "descricao": "São Brás"
+        },
+        {
+            "id": 1,
+            "municipio": 0,
+            "descricao": "Nazaré"
+        },
+        {
+            "id": 2,
+            "municipio": 0,
+            "descricao": "Batista Campos"
+        },
+        {
+            "id": 3,
+            "municipio": 2,
+            "descricao": "Filadélfia"
+        }
+    ],
     "setor_bairro": {},
     "setor": {}
 }
